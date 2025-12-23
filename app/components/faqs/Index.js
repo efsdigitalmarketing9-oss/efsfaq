@@ -742,7 +742,7 @@ const mockUsers = [
     { id: 6, name: "John Smith", avatar: "JS", verified: false },
     { id: 7, name: "Maria Garcia", avatar: "MG", verified: true },
     { id: 8, name: "David Kim", avatar: "DK", verified: false },
-    { id: 9, name: "Nina Patel", avatar: "NP", verified: true },
+    { id: 9, name: "Amanda", avatar: "NP", verified: true },
     { id: 10, name: "Kevin Brown", avatar: "KB", verified: false },
     { id: 11, name: "Olivia Thompson", avatar: "OT", verified: true },
     { id: 12, name: "Daniel Lee", avatar: "DL", verified: false },
@@ -1427,7 +1427,7 @@ const initialComments = {
             id: 1,
             userId: 9, // Nina Patel
             text: "I was a bit unsure about the $100 thing, but now that I understand it’s just a system requirement, it makes sense. I didn’t have to add the full amount either, most of it came from the training phase. I’ve already withdrawn today’s earnings. I earned $200.44 and successfully withdrew it.",
-            images: ["/p3.jpg", "/p4.jpg", "/p1.jpg", "/p2.jpg"],
+            images: [],
             timestamp: "6 hours ago",
             likes: 20,
             likedByUser: false,
