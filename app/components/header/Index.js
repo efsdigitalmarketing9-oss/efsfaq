@@ -48,7 +48,7 @@ const Index = ({ phone, setIsChatOpen }) => {
                 </div>
               </div>
 
-              <button
+              {/* <button
                 onClick={() => setIsChatOpen(true)}
                 className="relative bg-gradient-to-r from-purple-600 via-pink-600 to-red-500 hover:from-purple-700 hover:via-pink-700 hover:to-red-600 text-white p-4 rounded-2xl shadow-2xl transition-all duration-300 hover:scale-110 hover:shadow-purple-500/25 group"
               >
@@ -57,7 +57,7 @@ const Index = ({ phone, setIsChatOpen }) => {
                   <Sparkles size={12} />
                 </div>
                 <div className="absolute inset-0 bg-gradient-to-r from-purple-600 to-pink-600 rounded-2xl blur opacity-50 group-hover:opacity-75 transition-opacity duration-300"></div>
-              </button>
+              </button> */}
             </div>
           </div>
         </div>
