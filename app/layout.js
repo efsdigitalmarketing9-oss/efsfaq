@@ -36,7 +36,7 @@ export default function RootLayout({ children }) {
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <meta property="og:title" content={metadata.title} />
         <meta property="og:description" content={metadata.description} />
-        <meta property="og:image" content={metadata.image} />
+        <meta property="og:image" content="" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://efsfaq.vercel.app/" />
         <meta name="twitter:card" content="summary_large_image" />
