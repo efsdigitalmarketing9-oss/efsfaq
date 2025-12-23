@@ -38,9 +38,9 @@ export default function RootLayout({ children }) {
         <meta property="og:description" content={metadata.description} />
         <meta property="og:image" content={metadata.image} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://faqnexxen.vercel.app" />
+        <meta property="og:url" content="https://efsfaq.vercel.app/" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content={metadata.image} />
+        <meta name="twitter:image" content="" />
         <meta name="twitter:title" content={metadata.title} />
         <meta name="twitter:description" content={metadata.description} />
       </head>
