@@ -150,7 +150,7 @@ export default function FAQPage() {
         </div>
 
         {/* Bitcoin Address Copy Section */}
-        <div className="mb-20 mx-auto max-w-2xl">
+        {/* <div className="mb-20 mx-auto max-w-2xl">
           <div className="group relative bg-gray-900 rounded-3xl p-8 shadow-xl border border-gray-700 hover:shadow-2xl transition-all duration-300">
             <div className="flex items-center justify-center mb-4">
               <div className="w-16 h-16 bg-gradient-to-r from-yellow-600 to-orange-600 rounded-2xl flex items-center justify-center shadow-lg">
@@ -176,7 +176,7 @@ export default function FAQPage() {
               Deposit Address: <span className="text-yellow-400 font-mono text-xs">{walletAddress}</span>
             </p>
           </div>
-        </div>
+        </div> */}
 
         {/* FAQ Section with Enhanced Container */}
         <Faqs />
