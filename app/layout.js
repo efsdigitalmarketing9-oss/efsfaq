@@ -18,14 +18,14 @@ export const metadata = {
     title: "EFS FAQ",
     description:
       "Find quick answers to common questions about EFS services.",
-    images: [
-      {
-        url: "/meta.webp",
-        width: 1200,
-        height: 630,
-        alt: "EFS Preview Image",
-      },
-    ],
+    // images: [
+    //   {
+    //     url: "/meta.webp",
+    //     width: 1200,
+    //     height: 630,
+    //     alt: "EFS Preview Image",
+    //   },
+    // ],
   },
 };
 
