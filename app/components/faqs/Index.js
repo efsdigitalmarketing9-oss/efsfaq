@@ -87,20 +87,24 @@ const faqData = [
                     <h4 className="text-emerald-400 font-semibold mb-2">📊 VIP Levels & Daily Earnings</h4>
                     <ul className="list-disc pl-6 space-y-1">
                         <li>
-                            <strong>VIP Level 1:</strong> 3 sets/day &mdash;{" "}
-                            <span className="text-emerald-400 font-semibold">$50 base salary</span>
+                            <strong>VIP Level 1:</strong> 2 sets/day &mdash;{" "}
+                            <span className="text-emerald-400 font-semibold">$100 base salary</span>
                         </li>
                         <li>
-                            <strong>VIP Level 2:</strong> 4 sets/day &mdash;{" "}
-                            <span className="text-emerald-400 font-semibold">$200 base salary</span>
+                            <strong>VIP Level 2:</strong> 3 sets/day &mdash;{" "}
+                            <span className="text-emerald-400 font-semibold">$1,500 base salary</span>
                         </li>
                         <li>
-                            <strong>VIP Level 3:</strong> 5 sets/day &mdash;{" "}
-                            <span className="text-emerald-400 font-semibold">$500 base salary</span>
+                            <strong>VIP Level 3:</strong> 3 sets/day &mdash;{" "}
+                            <span className="text-emerald-400 font-semibold">$5,000 base salary</span>
                         </li>
                         <li>
-                            <strong>VIP Level 4:</strong> 6 sets/day &mdash;{" "}
-                            <span className="text-emerald-400 font-semibold">$1000 base salary</span>
+                            <strong>VIP Level 4:</strong> 3 sets/day &mdash;{" "}
+                            <span className="text-emerald-400 font-semibold">$10,000 base salary</span>
+                        </li>
+                        <li>
+                            <strong>VIP Level 5:</strong> 3 sets/day &mdash;{" "}
+                            <span className="text-emerald-400 font-semibold">$30,000 base salary</span>
                         </li>
                     </ul>
                 </div>
@@ -580,7 +584,7 @@ const faqData = [
                     even if it's just a few dollars.
                 </p>
                 <p>
-                    That initial amount you add, often $10 to $20, is more than just money. It's a form of{" "}
+                    That initial amount you add, often $20 to $25, is more than just money. It's a form of{" "}
                     <strong>human verification</strong>. It proves that you're a real person, that you're genuinely ready to
                     participate, and that you're in control of your own payment method.
                 </p>
@@ -686,7 +690,7 @@ const faqData = [
                     is easy and can be done in just a few steps, even if you've never used a digital wallet before.
                 </p>
                 <p>
-                    You'll need to make a small crypto deposit (usually around <strong>$17 to $19</strong>) to restart your task.
+                    You'll need to make a small crypto deposit (usually around <strong>$20 to $25</strong>) to restart your task.
                     Here's exactly how to do it:
                 </p>
                 <ol className="list-decimal pl-6 space-y-2">
