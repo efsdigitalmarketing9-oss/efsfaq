@@ -280,7 +280,7 @@ const faqData = [
                 <ul className="list-disc pl-6 space-y-1">
                     <li>🎉 You'll receive a $25 welcome bonus as soon as you create your account.</li>
                     <li>
-                        📈 During training, a special training account will be created under yours. You'll earn 15% of the profits
+                        📈 During training, a special training account will be created under yours. You'll earn 20% of the profits
                         generated from that account, credited directly to your personal account through your invitation code.
                     </li>
                     <li>✅ You officially become a registered member, unlocking many more benefits as you progress.</li>
@@ -366,7 +366,7 @@ const faqData = [
                     , and that's a very valid concern. So let us explain clearly and honestly.
                 </p>
                 <p>
-                    The job involves completing <strong>3 daily sets</strong> after your training is over. These are simple tasks
+                    The job involves completing <strong>2 daily sets</strong> after your training is over. These are simple tasks
                     you'll complete from your personal account, and your daily earnings for these sets (at{" "}
                     <span className="text-emerald-300 font-semibold">VIP Level 1</span>) usually range between{" "}
                     <strong>$180 to $200</strong>.
@@ -383,11 +383,11 @@ const faqData = [
                     </span>{" "}
                     Instead, you go through a short training phase first. In this phase, a training account is created using your
                     invitation code, and the profits from that account automatically credit{" "}
-                    <strong>15% directly into your own account.</strong>
+                    <strong>20% directly into your own account.</strong>
                 </p>
                 <p>
                     Most users easily earn more than $100 from this training, so they don't have to add anything from their own
-                    pocket. Even if someone falls slightly short, it's usually just a few bucks (around $15 to $19).
+                    pocket. Even if someone falls slightly short, it's usually just a few bucks (around $20 to $25).
                 </p>
                 <p>
                     <strong>And here's the key point:</strong> The small amount you might add is:
